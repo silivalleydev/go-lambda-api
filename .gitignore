@@ -1,0 +1,7 @@
+.env
+awsConfig.json
+env.mjs
+main
+/**/go.sum
+/**/main
+/build

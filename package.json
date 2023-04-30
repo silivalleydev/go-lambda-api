@@ -1,0 +1,17 @@
+{
+  "name": "go-lambda-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "create-func": "./create-func.sh",
+    "deploy-func": "./deploy-func.sh",
+    "deploy": "./deploy.sh",
+    "build": "./build.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
