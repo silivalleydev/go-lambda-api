@@ -3,5 +3,6 @@ awsConfig.json
 env.mjs
 main
 /**/go.sum
+/**/go.mod
 /**/main
 /build
